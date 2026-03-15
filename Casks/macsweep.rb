@@ -5,7 +5,7 @@ cask "macsweep" do
   url "https://github.com/MbappeWU/MacSweep/releases/download/v#{version}/MacSweep.dmg"
   name "MacSweep"
   desc "Safety-first macOS storage cleaner with trash-first deletion"
-  homepage "https://github.com/MbappeWU/MacSweep"
+  homepage "https://arkenage.com"
 
   depends_on macos: ">= :monterey"
 
